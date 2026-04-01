@@ -1,0 +1,1 @@
+Designed and developed a project that combines JavaScript-driven interactivity with Canva-based visual design to effectively present ideas. Focused on enhancing user experience through dynamic functionality and clean, engaging UI.
