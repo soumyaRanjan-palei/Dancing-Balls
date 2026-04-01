@@ -1,0 +1,46 @@
+*{
+  background-color: #212121;
+  color:white;
+
+}
+/* #container{
+  margin-top: 43px;
+  margin-left: 20px;
+  height:65%;
+  width:55%;
+  background-color: bisque;
+  color: yellow;
+  border-radius: 12px;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  -ms-border-radius: 12px;
+  -o-border-radius: 12px;
+} */
+.inner{
+  background-color: white;
+  height: 17px;
+  width:309px;
+  margin:1px;
+  padding:6px;
+
+}
+label{
+  background-color: whitesmoke;
+  color: #212121;
+
+}
+input{
+  background-color: aliceblue;
+  color: blue;
+}
+#button{
+  margin-left: 20%;
+  margin-top: 30%;
+  padding:20px;
+  height:3px;
+  width:5px;
+
+}
+#button:hover{
+  background-color: aqua;
+}
